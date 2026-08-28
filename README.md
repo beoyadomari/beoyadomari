@@ -2,9 +2,7 @@
 
 I'm an aspiring **Data Analyst** based in Lucerne, Switzerland 🇨🇭. 
 
-With a background in Architecture and an MBA in Data Science and Analytics, 
-I combine spatial and structured logic with quantitative analysis to solve real-world problems. 
-I am currently building my portfolio and looking for entry-level opportunities or internships in data analytics and business intelligence.
+With an MBA in Data Science and Analytics, I focus on data preparation, cleaning, and creating analytical reports. I use SQL, Python, Power BI, and Excel to process structured data and build dashboards that support data-driven decisions. I am currently building my portfolio and open to entry-level opportunities in Data Analysis and Business Intelligence.
 
 ---
 
