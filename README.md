@@ -33,5 +33,5 @@ I am currently building my portfolio and looking for entry-level opportunities o
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [
+* 💼 **LinkedIn:** https://www.linkedin.com/in/beatriz-oyadomari-de-sousa-8b3780a8/
 * 📍 **Location:** Lucerne, Switzerland
