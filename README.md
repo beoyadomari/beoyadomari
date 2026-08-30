@@ -18,7 +18,7 @@ With an MBA in Data Science and Analytics, I focus on data preparation, cleaning
 ### 📚 Portfolio Projects
 
 * 📊 **[BiblioTEC](https://github.com/beoyadomari/BiblioTEC):** A library management application built with Python, PostgreSQL, and Power BI to assist in operational flow and data-driven decisions.
-
+* 🇨🇭 **[Quality of Life in Swiss Cities](https://github.com/beoyadomari/swiss-cities-quality-of-life):** An MCDM Data Science study (MBA USP/ESALQ) analyzing socioeconomic variables from FSO open data using Shannon Entropy, WSM, TOPSIS, and VIKOR.
 ---
 
 ### 🌐 Languages
