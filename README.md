@@ -6,12 +6,12 @@ With an MBA in Data Science and Analytics, I focus on data preparation, cleaning
 
 ---
 
-### 🛠️ Core Tech Stack
+🛠️ Core Tech Stack
 
-* **Power BI:** Interactive Dashboards, Data Visualization, Basic DAX & Data Modeling
+* **Power BI:** Interactive Dashboards, Data Visualization, Data Transformation (Power Query ETL), Basic DAX & Data Modeling
 * **SQL:** Data Extraction & Querying (Joins, Aggregations, Filtering) in PostgreSQL
-* **Python:** Data Cleaning & Manipulation using Pandas
-* **Excel:** Data Analysis, Formulas & Functions
+* **Python:** Data Cleaning, Manipulation & Analysis using Pandas, NumPy & SciPy
+* **Excel:** Data Analysis, Formulas & Advanced Functions
 
 ---
 
