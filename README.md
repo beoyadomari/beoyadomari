@@ -17,10 +17,10 @@ With an MBA in Data Science and Analytics, I focus on data preparation, cleaning
 
 ### 📚 Portfolio Projects
 
-* 📊 **[BiblioTEC](https://github.com/beoyadomari/BiblioTEC):** A library management application built with Python, PostgreSQL, and Power BI to assist in operational flow and data-driven decisions.
-*  **[Quality of Life in Swiss Cities](https://github.com/beoyadomari/swiss-cities-quality-of-life):** An MCDM Data Science study (MBA USP/ESALQ) analyzing socioeconomic variables from FSO open data using Shannon Entropy, WSM, TOPSIS, and VIKOR.
+* 📊 **[B2B Sales Performance Dashboard](https://github.com/beoyadomari/BONSAI-sales-dashboard-powerbi):** An interactive sales performance dashboard developed for FATEC's Projeto Integrador II, built with Power BI and Power Query ETL to track revenue, costs, product categories, and sales rep analytics.
+* 📊 **[BiblioTEC](https://github.com/beoyadomari/BiblioTEC):** A library management application built with Python, PostgreSQL, and Power BI (with Power Query ETL) to assist in operational flow and data-driven decisions.
+* 🇨🇭 **[Quality of Life in Swiss Cities](https://github.com/beoyadomari/swiss-cities-quality-of-life):** An MCDM Data Science study (MBA USP/ESALQ) analyzing 43 socioeconomic variables from FSO open data using Shannon Entropy, WSM, TOPSIS, and VIKOR.
 ---
-
 ### 🌐 Languages
 
 * **Portuguese:** Native
