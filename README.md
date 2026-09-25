@@ -31,5 +31,5 @@ With an MBA in Data Science and Analytics, I focus on data preparation, cleaning
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/beatriz-oyadomari-de-sousa-8b3780a8/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/beatriz-oyadomari-de-sousa-meier-8b3780a8//
 * 📍 **Location:** Lucerne, Switzerland
